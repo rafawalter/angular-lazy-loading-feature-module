@@ -1,6 +1,7 @@
 # AngularLazyLoadingFeatureModule
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
+## References
+https://angular.io/guide/lazy-loading-ngmodules
 
 ## Development server
 
